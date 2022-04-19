@@ -4,6 +4,7 @@ if(!isset($_SESSION['id'])){
 	
 	}
 ?>
+
 <?php
 $session=$_SESSION['id'];
 include 'db.php';
