@@ -1,6 +1,6 @@
 <?php
 include 'db.php';
-	
+	//variable declaration
 	$owners_id = $_POST['owners_id'];
 	$prev = $_POST['prev'];
 	$pres = $_POST['pres'];
