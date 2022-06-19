@@ -1,10 +1,7 @@
 <?php session_start();
 if(!isset($_SESSION['id'])){
 	echo '<script>windows: location="index.php"</script>';
-
-	
-	}
-		
+	}	
 ?>
 <?php
 $session=$_SESSION['id'];
