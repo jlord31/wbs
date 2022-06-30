@@ -1,5 +1,6 @@
 <?php session_start(); ?>
 <?php
+ //include database
  include 'db.php';
 $owner_id =$_REQUEST['id'];
 
