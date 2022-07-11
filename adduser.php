@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>Name:</td>
-    <td><input type="text" name="name" /></td>
+    <td><input type="text" name="name" placeholder="Enter Name"/></td>
   </tr>
   <tr>
     <td><input type="submit" name="ok" value="Add"/></td>
